@@ -1,0 +1,19 @@
+PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 65536 bytes) in /var/www/html/autodialer/src/Shell/CronShell.php on line 14
+
+Fatal error: Allowed memory size of 134217728 bytes exhausted (tried to allocate 65536 bytes) in /var/www/html/autodialer/src/Shell/CronShell.php on line 14
+2021-11-07 15:52:58 Error: Fatal Error (1): Allowed memory size of 134217728 bytes exhausted (tried to allocate 65536 bytes) in [/var/www/html/autodialer/src/Shell/CronShell.php, line 14]
+Trace:
+Cake\Error\BaseErrorHandler::handleFatalError() - CORE/src/Error/BaseErrorHandler.php, line 238
+Cake\Error\BaseErrorHandler::Cake\Error\{closure}() - CORE/src/Error/BaseErrorHandler.php, line 108
+[main] - [internal], line ??
+
+
+
+Fatal Error: Allowed memory size of 134217728 bytes exhausted (tried to allocate 65536 bytes) in [/var/www/html/autodialer/src/Shell/CronShell.php, line 14]
+2021-11-07 15:52:58 Error: [Cake\Error\FatalErrorException] Allowed memory size of 134217728 bytes exhausted (tried to allocate 65536 bytes) in /var/www/html/autodialer/src/Shell/CronShell.php on line 14
+Stack Trace:
+#0 /var/www/html/autodialer/vendor/cakephp/cakephp/src/Error/BaseErrorHandler.php(108): Cake\Error\BaseErrorHandler->handleFatalError(1, 'Allowed memory ...', '/var/www/html/a...', 14)
+#1 [internal function]: Cake\Error\BaseErrorHandler->Cake\Error\{closure}()
+#2 {main}
+
+

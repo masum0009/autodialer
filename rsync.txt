@@ -1,0 +1,1 @@
+rsync  -azvh  --exclude 'tmp/*' --exclude 'logs/*' --exclude 'config/app_local.php'    /var/www/html/autodialer/ root@209.127.124.2:/var/www/html/autodialer/

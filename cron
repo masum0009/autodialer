@@ -1,0 +1,1 @@
+nohup php /var/www/html/autodialer/bin/cake.php cron > /var/www/html/autodialer/logs/cron.log  2>&1 &
