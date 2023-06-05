@@ -19,6 +19,8 @@ Incoming call can be easily forward to a list of contacts to get possible leads.
 #### -Easy Excel Spreadsheet List
 With a smart plug-n-play solution integrate your existing CRM software for easy access.
 
+### Dependency 
+* [Autodialer Core](https://github.com/masum0009/autodialer-core)
 ### Live Demo
 
 #### Admin 
