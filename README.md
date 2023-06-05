@@ -9,9 +9,9 @@ Don't hesitate to contact us for support if you plan to create a multi instance 
 Email: support@infosoftbd.com
 
 ### Premium Support Desk
-Premium premium@infosoftbd.com
+Email: premium@infosoftbd.com
 
-Thank you
+Thank you  
 Infosoftbd
 
 
