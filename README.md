@@ -23,7 +23,7 @@ With a smart plug-n-play solution integrate your existing CRM software for easy 
 
 #### Admin 
 url : https://autodialer.infosoftbd.com/admin  
-username : admin@infosoftbd.com 
+username : admin@infosoftbd.com  
 password : 123456  
 
 #### Client 
