@@ -16,20 +16,20 @@ You can send thousands of simultaneous phone calls from a single computer, and v
 #### Call Forwarding options
 Incoming call can be easily forward to a list of contacts to get possible leads.
 
-### Easy Excel Spreadsheet List
+#### Easy Excel Spreadsheet List
 With a smart plug-n-play solution integrate your existing CRM software for easy access.
 
 ### Live Demo
 
 #### Admin 
-url : https://autodialer.infosoftbd.com/admin
-username : admin@infosoftbd.com
-password : 123456
+url : https://autodialer.infosoftbd.com/admin  
+username : admin@infosoftbd.com  
+password : 123456  
 
 #### Client 
-url : https://autodialer.infosoftbd.com/client
-username : client@infosoftbd.com
-password : 123456
+url : https://autodialer.infosoftbd.com/client  
+username : client@infosoftbd.com  
+password : 123456  
 
 ### Support Desk
 Don't hesitate to contact us for support if you plan to create a multi instance installation or want any kind of help with your systems.
