@@ -9,6 +9,8 @@ Don't hesitate to contact us for support if you plan to create a multi instance 
 Email: support@infosoftbd.com
 
 ### Premium Support Desk
+If you wish to have our expert team install and customize the product or service according to your specific needs, please provide us with detailed information about your requirements. It is important to note that there will be an applicable charge for these services. 
+
 Email: premium@infosoftbd.com
 
 Thank you  
