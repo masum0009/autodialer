@@ -41,7 +41,7 @@
                                     <td class="actions">
                                         <div style="width:160px">
                                             <div style="float: left; padding-left: 5px"><?php echo $this->Html->link('<i class="fa fa-edit"></i> Edit', array('action' => 'edit', $gateway->id), array('escape' => false, 'class' => 'btn btn-secondary btn-sm', 'target' => '_self')); ?></div>
-                                            <div style="float: left; padding-left: 5px"><?php echo $this->Form->postLink('<i class="fa fa-trash"></i> Delete', array('action' => 'delete', $gateway->id), array('class' => 'btn btn-danger btn-sm', 'escape' => false), __('Are you sure you want to delete # %s?', $gateway['Gateway']['id'])); ?></div>
+                                            <div style="float: left; padding-left: 5px"><?php echo $this->Form->postLink('<i class="fa fa-trash"></i> Delete', array('action' => 'delete', $gateway->id), array('class' => 'btn btn-danger btn-sm', 'escape' => false), __('Are you sure you want to delete # %s?', $gateway->id)); ?></div>
                                         </div>
                                     </td>
                                 </tr>
